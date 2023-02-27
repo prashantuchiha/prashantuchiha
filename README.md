@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-        <img src="https://wallpaperaccess.com/full/6697029.jpg" width="1200" height="600"/>
+        <img src="https://wallpaperaccess.com/full/6697029.jpg" width="1200" height="400"/>
   
       
 <!--       <div id="badges" align ="center">
