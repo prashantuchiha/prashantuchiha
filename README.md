@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantuchiha&show_icons=true&locale=en" alt="prashantuchiha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantuchiha&" alt="prashantuchiha" /></p>
-
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantuchiha&" alt="prashantuchiha" /></p> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prashantuchiha&theme=radical)](https://git.io/streak-stats)
